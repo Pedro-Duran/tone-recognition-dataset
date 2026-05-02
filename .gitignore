@@ -12,6 +12,9 @@ output/
 # MFA corpus (generated, large)
 mfa_corpus/
 
+# Large model binaries
+models/svm.joblib
+
 # Claude Code internal
 .claude/
 

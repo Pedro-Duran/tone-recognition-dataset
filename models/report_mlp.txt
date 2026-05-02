@@ -1,0 +1,15 @@
+Model: MLP (69 epochs)
+Accuracy : 0.6740
+Macro F1 : 0.6142
+
+              precision    recall  f1-score   support
+
+  Tone 1 (平)      0.696     0.781     0.736      5493
+  Tone 2 (升)      0.774     0.735     0.754      6561
+  Tone 3 (上)      0.488     0.517     0.502      3222
+  Tone 4 (去)      0.818     0.649     0.723      7687
+  Tone 5 (轻)      0.282     0.481     0.356      1492
+
+    accuracy                          0.674     24455
+   macro avg      0.611     0.633     0.614     24455
+weighted avg      0.702     0.674     0.683     24455
