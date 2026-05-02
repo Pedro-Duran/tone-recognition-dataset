@@ -9,6 +9,12 @@ env/
 # Generated output
 output/
 
+# MFA corpus (generated, large)
+mfa_corpus/
+
+# Claude Code internal
+.claude/
+
 # OS / editor
 .DS_Store
 Thumbs.db
