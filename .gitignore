@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Generated output
+output/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
