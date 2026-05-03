@@ -15,6 +15,9 @@ mfa_corpus/
 # Large model binaries
 models/svm.joblib
 
+# Whisper model cache
+~/.cache/whisper/
+
 # Claude Code internal
 .claude/
 
